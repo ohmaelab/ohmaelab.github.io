@@ -25,9 +25,8 @@ latest_posts:
   enabled: false
 ---
 
-# Ohmae Lab
 
-We study how brain circuits learn, predict, and process sequential information.
+Ohmae lab studies how brain circuits learn, predict, and process sequential information.
 
 We focus on the neocortex and the cerebellum, two major brain systems that are essential for adaptive behavior and cognition. The cerebellum has traditionally been studied as a center for motor control, but growing evidence suggests that it also contributes to broader cognitive functions, including timing, sequence processing, and language-related computation.
 
@@ -40,6 +39,7 @@ To address these questions, we combine animal behavior, neural recordings, circu
 **Shogo Ohmae, M.D., Ph.D.** is an Assistant Investigator at the Chinese Institute for Brain Research, Beijing. His research investigates how neocortico-cerebellar circuits support prediction, sequence processing, learning, and cognition.
 
 Dr. Ohmae combines systems neuroscience, circuit-level approaches, and computational modeling to understand how the brain builds internal models and uses them to guide adaptive behavior.
+
 
 ## Research Themes
 
