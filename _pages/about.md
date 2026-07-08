@@ -1,34 +1,69 @@
 ---
 layout: about
-title: about
+title: home
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: Neocortico-cerebellar computation, prediction, sequence learning, and AI-inspired neuroscience
 
 profile:
   align: right
   image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
+  image_circular: false
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>Ohmae Lab</p>
+    <p>Chinese Institute for Brain Research, Beijing</p>
 
-selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
+selected_papers: false
+social: true
 
 announcements:
-  enabled: true # includes a list of news items
-  scrollable: true # adds a vertical scroll bar if there are more than 3 news items
-  limit: 5 # leave blank to include all the news in the `_news` folder
+  enabled: false
+  scrollable: true
+  limit: 5
 
 latest_posts:
-  enabled: true
-  scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
-  limit: 3 # leave blank to include all the blog posts
+  enabled: false
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](https://www.reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+# Ohmae Lab
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+The Ohmae Lab at the Chinese Institute for Brain Research, Beijing studies how brain circuits learn, predict, and process sequential information.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+We focus on the neocortex and the cerebellum, two major brain systems that are essential for adaptive behavior and cognition. The cerebellum has traditionally been studied as a center for motor control, but growing evidence suggests that it also contributes to broader cognitive functions, including timing, sequence processing, prediction, and language-related computation.
+
+Our goal is to understand how the brain builds internal models of the world. The brain does not simply react to external events; it predicts what will happen next, compares those predictions with actual outcomes, and learns from the resulting errors. We investigate these mechanisms at the level of neural circuits, behavior, and computational models.
+
+To address these questions, we combine animal behavior, neural recordings, circuit manipulation, calcium imaging, fMRI analysis, and artificial intelligence models. By integrating systems neuroscience with modern AI, we aim to uncover general principles of brain computation and generate new hypotheses about cognition and intelligence.
+
+## Research Themes
+
+### Cerebellar sequence processing
+
+We investigate how the cerebellum represents and learns temporal structure, state transitions, reward prediction, and sequential information. We are particularly interested in how cerebellar circuits contribute not only to motor control, but also to cognitive processes that depend on timing and structured sequences.
+
+### Prediction-error learning and internal models
+
+The brain learns by predicting future events and updating its internal models based on the difference between prediction and outcome. We study how interactions among the neocortex, cerebellum, and reward-related circuits support prediction-error learning and adaptive behavior.
+
+### Brain–AI convergence
+
+Recent advances in artificial intelligence, especially deep learning and large language models, have revealed powerful mechanisms for prediction, sequence processing, and generative modeling. We use AI models not simply as analytical tools, but as sources of testable hypotheses about the computational principles of the brain.
+
+## Approaches
+
+Our research combines experimental, computational, and theoretical approaches.
+
+- Animal behavior
+- Large-scale neural recordings
+- Calcium imaging and fiber photometry
+- Circuit manipulation
+- fMRI analysis
+- Computational modeling
+- Artificial intelligence and biologically inspired neural networks
+
+## Join Us
+
+The Ohmae Lab welcomes students, researchers, and technical staff who are interested in neuroscience, behavior, neural recording, computational modeling, and artificial intelligence.
+
+We are especially interested in people who want to work across experimental and computational boundaries to understand how brain circuits give rise to learning, prediction, and cognition.
+
+For inquiries about research opportunities, collaborations, or open positions, please contact us.
