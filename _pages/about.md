@@ -34,13 +34,6 @@ Our goal is to understand how the brain builds internal models of the world. The
 
 To address these questions, we combine animal behavior, neural recordings, circuit manipulation, calcium imaging, fMRI analysis, and artificial intelligence models. By integrating systems neuroscience with modern AI, we aim to uncover general principles of brain computation and generate new hypotheses about cognition and intelligence.
 
-## Principal Investigator
-
-**Shogo Ohmae, M.D., Ph.D.** is an Assistant Investigator at the Chinese Institute for Brain Research, Beijing. His research investigates how neocortico-cerebellar circuits support prediction, sequence processing, learning, and cognition.
-
-Dr. Ohmae combines systems neuroscience, circuit-level approaches, and computational modeling to understand how the brain builds internal models and uses them to guide adaptive behavior.
-
-
 
 
 ## Join Us
