@@ -1,12 +1,11 @@
 ---
 layout: page
-permalink: /Profile/
-title: 
-description:
+permalink: /profile/
+title: Profile
+description: Shogo Ohmae profile and academic links.
 nav: true
 nav_order: 4
 ---
-
 
 ## Shogo Ohmae, M.D., Ph.D.
 
@@ -22,3 +21,9 @@ Dr. Ohmae received his M.D. from Kyoto University and his Ph.D. in Medicine from
 His research focuses on how the cerebellum and neocortex work together to support prediction, sequence processing, learning, and cognition. By combining large-scale neural recordings, behavioral experiments, circuit-level approaches, and computational modeling, he aims to understand how brain circuits build internal models and use them to guide adaptive behavior.
 
 <div style="clear: both;"></div>
+
+## Profiles and Links
+
+- [Shogo Ohmae — CIBR Profile](https://cibr.ac.cn/#/teamDetail/cibrTeamteam/708776693555478daae3bc97fe255dcd/Shogo%20Ohmae?lang=en)
+
+- [Shogo Ohmae — Google Scholar](https://scholar.google.com/citations?hl=en&user=aVAWCTUAAAAJ&view_op=list_works)
