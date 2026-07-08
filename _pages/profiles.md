@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /profile/
+permalink: /PI/
 title: Profile
 description: About the PI
 nav: true
