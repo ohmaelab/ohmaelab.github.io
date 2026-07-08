@@ -1,6 +1,6 @@
 ---
 layout: about
-title: home
+title: Home
 permalink: /
 subtitle: Neocortico-cerebellar computation and AI-inspired neuroscience
 
