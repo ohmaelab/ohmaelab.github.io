@@ -2,14 +2,16 @@
 layout: about
 title: home
 permalink: /
-subtitle: Neocortico-cerebellar computation and AI-inspired neuroscience
+subtitle: Neocortico-cerebellar computation, prediction, sequence learning, and AI-inspired neuroscience
 
 profile:
   align: right
   image: shogo_ohmae.jpg
   image_circular: false
   more_info: >
-    <p>Shogo Ohmae, M.D., Ph.D., is an Assistant Investigator at the Chinese Institute for Brain Research, Beijing. His research investigates how neocortico-cerebellar circuits support prediction, sequence processing, learning, and cognition. He combines systems neuroscience, circuit-level approaches, and computational modeling to understand how the brain builds internal models and uses them to guide adaptive behavior.</p>
+    <p>Shogo Ohmae, M.D., Ph.D.</p>
+    <p>Assistant Investigator</p>
+    <p>Chinese Institute for Brain Research, Beijing</p>
 
 selected_papers: false
 social: true
@@ -33,6 +35,12 @@ Our goal is to understand how the brain builds internal models of the world. The
 
 To address these questions, we combine animal behavior, neural recordings, circuit manipulation, calcium imaging, fMRI analysis, and artificial intelligence models. By integrating systems neuroscience with modern AI, we aim to uncover general principles of brain computation and generate new hypotheses about cognition and intelligence.
 
+## Principal Investigator
+
+**Shogo Ohmae, M.D., Ph.D.** is an Assistant Investigator at the Chinese Institute for Brain Research, Beijing. His research investigates how neocortico-cerebellar circuits support prediction, sequence processing, learning, and cognition.
+
+Dr. Ohmae combines systems neuroscience, circuit-level approaches, and computational modeling to understand how the brain builds internal models and uses them to guide adaptive behavior.
+
 ## Research Themes
 
 ### Cerebellar sequence processing
@@ -43,7 +51,7 @@ We investigate how the cerebellum represents and learns temporal structure, stat
 
 The brain learns by predicting future events and updating its internal models based on the difference between prediction and outcome. We study how interactions among the neocortex, cerebellum, and reward-related circuits support prediction-error learning and adaptive behavior.
 
-### Brain–AI convergence
+### Brain-AI convergence
 
 Recent advances in artificial intelligence, especially deep learning and large language models, have revealed powerful mechanisms for prediction, sequence processing, and generative modeling. We use AI models not simply as analytical tools, but as sources of testable hypotheses about the computational principles of the brain.
 
@@ -66,3 +74,4 @@ The Ohmae Lab welcomes students, researchers, and technical staff who are intere
 We are especially interested in people who want to work across experimental and computational boundaries to understand how brain circuits give rise to learning, prediction, and cognition.
 
 For inquiries about research opportunities, collaborations, or open positions, please contact us.
+
