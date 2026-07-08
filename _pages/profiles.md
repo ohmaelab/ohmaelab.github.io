@@ -1,8 +1,8 @@
 ---
 layout: page
-permalink: /PI/
+permalink: /Profile/
 title: Profile
-description: About the PI
+description:
 nav: true
 nav_order: 4
 ---
