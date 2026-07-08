@@ -7,7 +7,7 @@ nav: true
 nav_order: 2
 ---
 
-# Research Projects
+
 
 The Ohmae Lab studies how brain circuits learn, predict, and process sequential information. We focus on the neocortex and cerebellum, and combine experimental neuroscience with computational modeling and artificial intelligence.
 
