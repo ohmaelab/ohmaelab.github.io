@@ -2,12 +2,11 @@
 layout: page
 permalink: /publications/
 title: Publications
-description: Selected publications, past talks, and related media from the Ohmae Lab.
+description: 
 nav: true
 nav_order: 2
 ---
 
-## Selected Publications
 
 ### Brain-AI convergence: Generative world models and hierarchical attention for human intelligence
 
@@ -30,16 +29,15 @@ This perspective discusses how the brain and modern artificial intelligence may 
 
 This study shows that an artificial neural circuit inspired by the cerebellum can acquire syntax-like structure and word prediction through biological learning. It provides a computational perspective on how cerebellar-like architectures may contribute to sequence processing and language-related computation.
 
+
 ## Past Talks
 
 ### Shogo Ohmae: Predictive world models in the neocortex and the cerebellum
-
 **Speaker:** Shogo Ohmae  
 **Topic:** Predictive world models, neocortex, cerebellum, and brain-AI convergence  
 **Video:** [Watch on YouTube](https://www.youtube.com/watch?v=NVGaOrQYTHc)
 
 ### Shogo Ohmae: Emergence of syntax and word prediction in an artificial model of the cerebellum
-
 **Speaker:** Shogo Ohmae  
 **Topic:** Cerebellar artificial neural circuits, syntax, word prediction, and sequence learning  
 **Video:** [Watch on YouTube](https://www.youtube.com/watch?v=z5sYI-ez7_0)
