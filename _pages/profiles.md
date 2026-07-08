@@ -1,13 +1,12 @@
 ---
 layout: page
-permalink: /profiles/
-title: profiles
-description: Members of the Ohmae Lab.
+permalink: /profile/
+title: Profile
+description: About the PI
 nav: true
 nav_order: 4
 ---
 
-# Profiles
 
 ## Shogo Ohmae, M.D., Ph.D.
 
