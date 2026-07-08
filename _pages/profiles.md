@@ -1,28 +1,25 @@
 ---
-layout: profiles
-permalink: /people/
-title: people
-description: members of the lab or group
-nav: false
-nav_order: 7
-
-profiles:
-  # if you want to include more than one profile, just replicate the following block
-  # and create one content file for each profile inside _pages/
-  - align: right
-    image: prof_pic.jpg
-    content: about_einstein.md
-    image_circular: false # crops the image to make it circular
-    more_info: >
-      <p>555 your office number</p>
-      <p>123 your address street</p>
-      <p>Your City, State 12345</p>
-  - align: left
-    image: prof_pic.jpg
-    content: about_einstein.md
-    image_circular: false # crops the image to make it circular
-    more_info: >
-      <p>555 your office number</p>
-      <p>123 your address street</p>
-      <p>Your City, State 12345</p>
+layout: page
+permalink: /profiles/
+title: profiles
+description: Members of the Ohmae Lab.
+nav: true
+nav_order: 4
 ---
+
+# Profiles
+
+## Shogo Ohmae, M.D., Ph.D.
+
+<img src="/assets/img/shogo_ohmae.jpg" alt="Shogo Ohmae" width="260" style="float: right; margin-left: 24px; margin-bottom: 16px;" />
+
+**Assistant Investigator**  
+**Chinese Institute for Brain Research, Beijing**
+
+Shogo Ohmae is an Assistant Investigator at the Chinese Institute for Brain Research, Beijing. His research investigates how neocortico-cerebellar circuits support prediction, sequence processing, learning, and cognition.
+
+Dr. Ohmae received his M.D. from Kyoto University and his Ph.D. in Medicine from Juntendo University. He conducted postdoctoral research at Hokkaido University and the University of Pennsylvania, and later served as an Assistant Professor in the Department of Neuroscience at Baylor College of Medicine. In 2024, he joined CIBR as an Assistant Investigator.
+
+His research focuses on how the cerebellum and neocortex work together to support prediction, sequence processing, learning, and cognition. By combining large-scale neural recordings, behavioral experiments, circuit-level approaches, and computational modeling, he aims to understand how brain circuits build internal models and use them to guide adaptive behavior.
+
+<div style="clear: both;"></div>
