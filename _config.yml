@@ -7,19 +7,17 @@ first_name: Shogo
 middle_name: 
 last_name: Ohmae
 contact_note: >
-  You can even add a little note about which of these is the best way to reach you.
 description: > Official website of the Ohmae Lab at the Chinese Institute for Brain Research, Beijing(CIBR).
 footer_text: >
-  Powered by Jekyll with the al-folio theme. Hosted by GitHub Pages.
-keywords: neuroscience, cerebellum, neocortex, prediction, sequence learning, artificial intelligence
-lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
-icon: 🧠 # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
+ keywords: neuroscience, cerebellum, neocortex, prediction, sequence learning, artificial intelligence
+lang: en 
+icon: 🧠 
 
 url: https://ohmaelab.github.io
 baseurl: 
-last_updated: false # set to true if you want to display last updated in the footer
-impressum_path: # set to path to include impressum link in the footer, use the same path as permalink in a page, helps to conform with EU GDPR
-back_to_top: true # set to false to disable the back to top button
+last_updated: false 
+impressum_path: 
+back_to_top: true 
 
 # -----------------------------------------------------------------------------
 # Theme
