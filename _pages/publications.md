@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /publications/
-title: publications
+title: Publications
 description: Selected publications and related media from the Ohmae Lab.
 nav: true
 nav_order: 2
