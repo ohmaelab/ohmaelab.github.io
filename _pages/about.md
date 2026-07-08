@@ -2,7 +2,7 @@
 layout: about
 title: home
 permalink: /
-subtitle: Neocortico-cerebellar computation, prediction, sequence learning, and AI-inspired neuroscience
+subtitle: Neocortico-cerebellar computation and AI-inspired neuroscience
 
 profile:
   align: right
@@ -27,9 +27,9 @@ latest_posts:
 
 # Ohmae Lab
 
-The Ohmae Lab at the Chinese Institute for Brain Research, Beijing studies how brain circuits learn, predict, and process sequential information.
+We study how brain circuits learn, predict, and process sequential information.
 
-We focus on the neocortex and the cerebellum, two major brain systems that are essential for adaptive behavior and cognition. The cerebellum has traditionally been studied as a center for motor control, but growing evidence suggests that it also contributes to broader cognitive functions, including timing, sequence processing, prediction, and language-related computation.
+We focus on the neocortex and the cerebellum, two major brain systems that are essential for adaptive behavior and cognition. The cerebellum has traditionally been studied as a center for motor control, but growing evidence suggests that it also contributes to broader cognitive functions, including timing, sequence processing, and language-related computation.
 
 Our goal is to understand how the brain builds internal models of the world. The brain does not simply react to external events; it predicts what will happen next, compares those predictions with actual outcomes, and learns from the resulting errors. We investigate these mechanisms at the level of neural circuits, behavior, and computational models.
 
@@ -73,5 +73,5 @@ The Ohmae Lab welcomes students, researchers, and technical staff who are intere
 
 We are especially interested in people who want to work across experimental and computational boundaries to understand how brain circuits give rise to learning, prediction, and cognition.
 
-For inquiries about research opportunities, collaborations, or open positions, please contact us.
+For inquiries about research opportunities, collaborations, or open positions, please contact us. keiko.ohmae@gmail.com
 
