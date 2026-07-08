@@ -14,9 +14,9 @@ nav_order: 2
 
 ## Past Talks
 
-- [Brain-AI convergence talk 1](https://www.youtube.com/watch?v=NVGaOrQYTHc)
+- [Shogo Ohmae: Predictive world models in the neocortex and the cerebellum](https://www.youtube.com/watch?v=NVGaOrQYTHc)
 
-- [Brain-AI convergence talk 2](https://www.youtube.com/watch?v=z5sYI-ez7_0)
+- [Shogo Ohmae: Emergence of syntax and word prediction in an artificial model of the cerebellum](https://www.youtube.com/watch?v=z5sYI-ez7_0)
   
 
 ## Related Videos
