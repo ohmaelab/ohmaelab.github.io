@@ -2,7 +2,7 @@
 layout: page
 permalink: /projects/
 title: Projects
-description: Research projects in the Ohmae Lab.
+description: 
 nav: true
 nav_order: 2
 ---
