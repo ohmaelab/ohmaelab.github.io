@@ -2,15 +2,15 @@
 layout: about
 title: home
 permalink: /
-subtitle: Neocortico-cerebellar computation, prediction, sequence learning, and AI-inspired neuroscience
+subtitle: Neocortico-cerebellar computation and AI-inspired neuroscience
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false
   more_info: >
-    <p>Ohmae Lab</p>
-    <p>Chinese Institute for Brain Research, Beijing</p>
+    <p>Shogo Ohmae</p>
+    <p>Shogo Ohmae, M.D., Ph.D., is an Assistant Investigator at the Chinese Institute for Brain Research, Beijing. His research investigates how neocortico-cerebellar circuits support prediction, sequence processing, learning, and cognition. He combines systems neuroscience, circuit-level approaches, and computational modeling to understand how the brain builds internal models and uses them to guide adaptive behavior.</p>
 
 selected_papers: false
 social: true
